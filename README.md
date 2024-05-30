@@ -1,4 +1,4 @@
-House Price Prediction Project
+House Price Prediction Project:
 This project uses the dataset from kaggle to predict house prices using an XGBoost Regressor model. The implementation is done in Google Colab.
 Getting Started
 To get started, open the project in Google Colab by clicking the button below:
